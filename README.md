@@ -1,5 +1,19 @@
-### Hi there 👋
+## Hi, Adefemi here 👋
 
+## 🔭 I’m currently working on
+
+## 🌱 I’m currently learning
+
+## 💬 Details
+- Name
+- 😄 Pronouns
+- Employer
+- Presentations
+- Portfolio
+
+## 📫 How to reach me
+
+## ⚡ Fun fact
 <!--
 **adefemi171/adefemi171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
