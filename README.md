@@ -1,4 +1,4 @@
-## Hi, Adefemi here 👋
+## Hi, Adefemi🌟 here 👋💻
 
 ## 🔭 I’m currently working on
 
