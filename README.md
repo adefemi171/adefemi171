@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/DevOpsTalk.png" alt="">
+<!-- <img src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/DevOpsTalk.png" alt=""> -->
 
-<h2> Hello fellow <human/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hello fellow human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'>
 
