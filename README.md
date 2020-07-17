@@ -34,6 +34,6 @@
 
 1. You can either fork or clone the repo
 2. Create a new repository
-3. Make the name of the repository your github username, fo example my username is <i>adefemi171</i> so my repository name will be <i>adefemi171</i>.
+3. Make the name of the repository your github username, fo example my username is `adefemi171` so my repository name will be `adefemi171`.
 4. After this, a README.md file is automatically created, you can either clone this new repo or edit on your browser
 5. Paste what you forked/cloned from my repository and edit to your own style.
