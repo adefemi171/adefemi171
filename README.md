@@ -10,7 +10,7 @@
 - Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria and currently studying Computer Science in University of Ibadan. I love networking and mentoring :8ball: :revolving_hearts:
 
 ## 👯 Communities
-- Microsoft Student Partner
+- Microsoft Learn Student Ambassadors 
 - HackerEarth Campus Ambassador
 
 ## 🔭 I’m currently working on
