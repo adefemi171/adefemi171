@@ -9,17 +9,26 @@
 
 - Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria and currently studying Computer Science in University of Ibadan. I love networking and mentoring :8ball: :revolving_hearts:
 
-### Spotify Playing 🎧
-[<img src="https://adefemi171.vercel.app//api/spotify-playing" alt="Adefemi Spotify Playing" width="350" />](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
+---
 
+### Spotify Playing 🎧
+[<img src="https://nova-spotify.adefemi171.vercel.app/api/spotify-playing" alt="Adefemi Spotify Playing" width="350" />](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
+
+---
 
 ## 👯 Communities
 - Microsoft Learn Student Ambassadors 
 - HackerEarth Campus Ambassador
 
+---
+
 ## 🔭 I’m currently working on
 
+---
+
 ## 🌱 I’m currently learning
+
+---
 
 ## 💬 Details
 - Name: Adefemi .A. Micheal
@@ -62,6 +71,9 @@
 <!-- ![Adefemi's github stats](https://github-readme-stats.vercel.app/api?username=adefemi171&hide=["issues"]&show_icons=true) -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=adefemi171.adefemi171) -->
+<br />
+
+---
 
 ## To create your own version of this wonderful feature by Github, follow this simple steps:
 
