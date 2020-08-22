@@ -45,6 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Containerization |Part 3: LXD ON STEROID](https://medium.com/faun/containerization-part-3-lxd-on-steroid-cbf73fccbc72?source=rss-c011ee23c0a1------2)
+- [Creating a Covid-10 Dashboard using Cube.js and VueJS](https://medium.com/analytics-vidhya/creating-a-covid-10-dashboard-using-cube-js-and-vuejs-17377dda5ef8?source=rss-c011ee23c0a1------2)
+- [Containerization |Part 2: From LXD to Kubernetes](https://medium.com/faun/containerization-part-2-from-lxd-to-kubernetes-6d595035fbc9?source=rss-c011ee23c0a1------2)
+- [What the Heck is Containerization?](https://dev.to/adefemi171/what-the-heck-is-containerization-4bpo)
+- [Why Django?](https://medium.com/@adefemi171/why-django-dc2d4bc773ed?source=rss-c011ee23c0a1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/adefemi171)
@@ -56,6 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com//adefemi171/anoraks-webpage/pull/6) in [adefemi171/anoraks-webpage](https://github.com//adefemi171/anoraks-webpage)
+2. 🎉 Merged PR [#5](https://github.com//adefemi171/anoraks-webpage/pull/5) in [adefemi171/anoraks-webpage](https://github.com//adefemi171/anoraks-webpage)
+3. 🎉 Merged PR [#4](https://github.com//adefemi171/anoraks-webpage/pull/4) in [adefemi171/anoraks-webpage](https://github.com//adefemi171/anoraks-webpage)
+4. 🎉 Merged PR [#3](https://github.com//adefemi171/anoraks-webpage/pull/3) in [adefemi171/anoraks-webpage](https://github.com//adefemi171/anoraks-webpage)
+5. 🗣 Commented on [#5](https://github.com//WuraLab/NigeriaApi/issues/5) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
 <!--END_SECTION:activity-->
 
 </details>
