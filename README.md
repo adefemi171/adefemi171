@@ -9,6 +9,10 @@
 
 - Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria and currently studying Computer Science in University of Ibadan. I love networking and mentoring :8ball: :revolving_hearts:
 
+### Spotify Playing 🎧
+[<img src="https://adefemi171.vercel.app//api/spotify-playing" alt="Adefemi Spotify Playing" width="350" />](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
+
+
 ## 👯 Communities
 - Microsoft Student Partner
 - HackerEarth Campus Ambassador
@@ -26,7 +30,36 @@
 
 - ⚡ Fun fact: Cheetah's can swim
 
-![Adefemi's github stats](https://github-readme-stats.vercel.app/api?username=adefemi171&hide=["issues"]&show_icons=true)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/adefemi171)
+
+---
+
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Adefemi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adefemi171&show_icons=true&hide_border=true&theme=dark" />
+
+</details>
+
+
+<!-- ![Adefemi's github stats](https://github-readme-stats.vercel.app/api?username=adefemi171&hide=["issues"]&show_icons=true) -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=adefemi171.adefemi171) -->
 
