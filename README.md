@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com//WuraLab/NigeriaApi/pull/15) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
-2. 💪 Opened PR [#14](https://github.com//WuraLab/NigeriaApi/pull/14) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
-3. 🎉 Merged PR [#6](https://github.com//adefemi171/anoraks-webpage/pull/6) in [adefemi171/anoraks-webpage](https://github.com//adefemi171/anoraks-webpage)
-4. 🎉 Merged PR [#5](https://github.com//adefemi171/anoraks-webpage/pull/5) in [adefemi171/anoraks-webpage](https://github.com//adefemi171/anoraks-webpage)
-5. 🎉 Merged PR [#4](https://github.com//adefemi171/anoraks-webpage/pull/4) in [adefemi171/anoraks-webpage](https://github.com//adefemi171/anoraks-webpage)
+1. 🗣 Commented on [#27](https://github.com//AkhileshNS/heroku-deploy/issues/27) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
+2. 💪 Opened PR [#15](https://github.com//WuraLab/NigeriaApi/pull/15) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
+3. 💪 Opened PR [#14](https://github.com//WuraLab/NigeriaApi/pull/14) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
+4. 🎉 Merged PR [#6](https://github.com//adefemi171/anoraks-webpage/pull/6) in [adefemi171/anoraks-webpage](https://github.com//adefemi171/anoraks-webpage)
+5. 🎉 Merged PR [#5](https://github.com//adefemi171/anoraks-webpage/pull/5) in [adefemi171/anoraks-webpage](https://github.com//adefemi171/anoraks-webpage)
 <!--END_SECTION:activity-->
 
 </details>
