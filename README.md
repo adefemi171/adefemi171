@@ -62,10 +62,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#32](https://github.com//AkhileshNS/heroku-deploy/issues/32) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
-2. ❗️ Opened issue [#32](https://github.com//AkhileshNS/heroku-deploy/issues/32) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
-3. 💪 Opened PR [#17](https://github.com//WuraLab/NigeriaApi/pull/17) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
-4. ❌ Closed PR [#14](https://github.com//WuraLab/NigeriaApi/pull/14) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
-5. 🗣 Commented on [#27](https://github.com//AkhileshNS/heroku-deploy/issues/27) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
+2. 🗣 Commented on [#32](https://github.com//AkhileshNS/heroku-deploy/issues/32) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
+3. 🗣 Commented on [#32](https://github.com//AkhileshNS/heroku-deploy/issues/32) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
+4. ❗️ Opened issue [#32](https://github.com//AkhileshNS/heroku-deploy/issues/32) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
+5. 💪 Opened PR [#17](https://github.com//WuraLab/NigeriaApi/pull/17) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
 <!--END_SECTION:activity-->
 
 </details>
