@@ -52,7 +52,7 @@
 - [Why Django?](https://medium.com/@adefemi171/why-django-dc2d4bc773ed?source=rss-c011ee23c0a1------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/adefemi171)
+➡️ [more blog posts...](https://medium.com/@adefemi171)
 
 ---
 
