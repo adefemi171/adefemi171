@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//adefemi171/recipeApp/pull/1) in [adefemi171/recipeApp](https://github.com//adefemi171/recipeApp)
-2. 🗣 Commented on [#32](https://github.com//AkhileshNS/heroku-deploy/issues/32) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
-3. 🗣 Commented on [#32](https://github.com//AkhileshNS/heroku-deploy/issues/32) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
+1. ❌ Closed PR [#15](https://github.com//WuraLab/NigeriaApi/pull/15) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
+2. 🗣 Commented on [#15](https://github.com//WuraLab/NigeriaApi/issues/15) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
+3. 🎉 Merged PR [#1](https://github.com//adefemi171/recipeApp/pull/1) in [adefemi171/recipeApp](https://github.com//adefemi171/recipeApp)
 4. 🗣 Commented on [#32](https://github.com//AkhileshNS/heroku-deploy/issues/32) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
-5. ❗️ Opened issue [#32](https://github.com//AkhileshNS/heroku-deploy/issues/32) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
+5. 🗣 Commented on [#32](https://github.com//AkhileshNS/heroku-deploy/issues/32) in [AkhileshNS/heroku-deploy](https://github.com//AkhileshNS/heroku-deploy)
 <!--END_SECTION:activity-->
 
 </details>
