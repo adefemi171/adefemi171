@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites/issues/1) in [sheeeng/jenkins-configuration-as-code-workshop-prerequisites](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites)
-2. ❗️ Opened issue [#1](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites/issues/1) in [sheeeng/jenkins-configuration-as-code-workshop-prerequisites](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites)
-3. ❌ Closed PR [#15](https://github.com//WuraLab/NigeriaApi/pull/15) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
-4. 🗣 Commented on [#15](https://github.com//WuraLab/NigeriaApi/issues/15) in [WuraLab/NigeriaApi](https://github.com//WuraLab/NigeriaApi)
-5. 🎉 Merged PR [#1](https://github.com//adefemi171/recipeApp/pull/1) in [adefemi171/recipeApp](https://github.com//adefemi171/recipeApp)
+1. ❗️ Closed issue [#1](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites/issues/1) in [sheeeng/jenkins-configuration-as-code-workshop-prerequisites](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites)
+2. 🗣 Commented on [#1](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites/issues/1) in [sheeeng/jenkins-configuration-as-code-workshop-prerequisites](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites)
+3. 🗣 Commented on [#1](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites/issues/1) in [sheeeng/jenkins-configuration-as-code-workshop-prerequisites](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites)
+4. 🗣 Commented on [#1](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites/issues/1) in [sheeeng/jenkins-configuration-as-code-workshop-prerequisites](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites)
+5. ❗️ Opened issue [#1](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites/issues/1) in [sheeeng/jenkins-configuration-as-code-workshop-prerequisites](https://github.com//sheeeng/jenkins-configuration-as-code-workshop-prerequisites)
 <!--END_SECTION:activity-->
 
 </details>
