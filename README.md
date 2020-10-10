@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/adefemi171/mlsa_gh_demo/pull/1) in [adefemi171/mlsa_gh_demo](https://github.com/adefemi171/mlsa_gh_demo)
-2. 💪 Opened PR [#1](https://github.com/dabsclement/demo/pull/1) in [dabsclement/demo](https://github.com/dabsclement/demo)
-3. 💪 Opened PR [#7](https://github.com/WuraLab/NigeriaApi-Frontend/pull/7) in [WuraLab/NigeriaApi-Frontend](https://github.com/WuraLab/NigeriaApi-Frontend)
-4. ❌ Closed PR [#6](https://github.com/WuraLab/NigeriaApi-Frontend/pull/6) in [WuraLab/NigeriaApi-Frontend](https://github.com/WuraLab/NigeriaApi-Frontend)
-5. 💪 Opened PR [#6](https://github.com/WuraLab/NigeriaApi-Frontend/pull/6) in [WuraLab/NigeriaApi-Frontend](https://github.com/WuraLab/NigeriaApi-Frontend)
+1. 💪 Opened PR [#29](https://github.com/WuraLab/NigeriaApi/pull/29) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
+2. 💪 Opened PR [#1](https://github.com/adefemi171/mlsa_gh_demo/pull/1) in [adefemi171/mlsa_gh_demo](https://github.com/adefemi171/mlsa_gh_demo)
+3. 💪 Opened PR [#1](https://github.com/dabsclement/demo/pull/1) in [dabsclement/demo](https://github.com/dabsclement/demo)
+4. 💪 Opened PR [#7](https://github.com/WuraLab/NigeriaApi-Frontend/pull/7) in [WuraLab/NigeriaApi-Frontend](https://github.com/WuraLab/NigeriaApi-Frontend)
+5. ❌ Closed PR [#6](https://github.com/WuraLab/NigeriaApi-Frontend/pull/6) in [WuraLab/NigeriaApi-Frontend](https://github.com/WuraLab/NigeriaApi-Frontend)
 <!--END_SECTION:activity-->
 
 </details>
