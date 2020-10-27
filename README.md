@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/adefemi171/task-dev-ops/pull/11) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
-2. 💪 Opened PR [#11](https://github.com/adefemi171/task-dev-ops/pull/11) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
-3. 🎉 Merged PR [#10](https://github.com/adefemi171/task-dev-ops/pull/10) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
-4. 💪 Opened PR [#10](https://github.com/adefemi171/task-dev-ops/pull/10) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
-5. 🎉 Merged PR [#9](https://github.com/adefemi171/task-dev-ops/pull/9) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
+1. 🎉 Merged PR [#13](https://github.com/adefemi171/task-dev-ops/pull/13) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
+2. 💪 Opened PR [#13](https://github.com/adefemi171/task-dev-ops/pull/13) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
+3. 🎉 Merged PR [#12](https://github.com/adefemi171/task-dev-ops/pull/12) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
+4. 💪 Opened PR [#12](https://github.com/adefemi171/task-dev-ops/pull/12) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
+5. 🎉 Merged PR [#11](https://github.com/adefemi171/task-dev-ops/pull/11) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
 <!--END_SECTION:activity-->
 
 </details>
