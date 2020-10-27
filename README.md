@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/juliopiubello/candidate-testing/pull/10) in [juliopiubello/candidate-testing](https://github.com/juliopiubello/candidate-testing)
-2. 🎉 Merged PR [#1](https://github.com/adefemi171/mlsa_gh_demo/pull/1) in [adefemi171/mlsa_gh_demo](https://github.com/adefemi171/mlsa_gh_demo)
-3. 💪 Opened PR [#33809](https://github.com/firstcontributions/first-contributions/pull/33809) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 💪 Opened PR [#29](https://github.com/WuraLab/NigeriaApi/pull/29) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
-5. 💪 Opened PR [#1](https://github.com/adefemi171/mlsa_gh_demo/pull/1) in [adefemi171/mlsa_gh_demo](https://github.com/adefemi171/mlsa_gh_demo)
+1. 🎉 Merged PR [#3](https://github.com/adefemi171/task-dev-ops/pull/3) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
+2. 💪 Opened PR [#3](https://github.com/adefemi171/task-dev-ops/pull/3) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
+3. 🎉 Merged PR [#2](https://github.com/adefemi171/task-dev-ops/pull/2) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
+4. 💪 Opened PR [#2](https://github.com/adefemi171/task-dev-ops/pull/2) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
+5. 🎉 Merged PR [#1](https://github.com/adefemi171/task-dev-ops/pull/1) in [adefemi171/task-dev-ops](https://github.com/adefemi171/task-dev-ops)
 <!--END_SECTION:activity-->
 
 </details>
