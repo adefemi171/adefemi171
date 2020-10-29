@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/adefemi171/bmat-task-devops/pull/4) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
-2. 💪 Opened PR [#4](https://github.com/adefemi171/bmat-task-devops/pull/4) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
-3. 🎉 Merged PR [#2](https://github.com/adefemi171/bnat-task-devops/pull/2) in [adefemi171/bnat-task-devops](https://github.com/adefemi171/bnat-task-devops)
-4. 🎉 Merged PR [#3](https://github.com/adefemi171/bnat-task-devops/pull/3) in [adefemi171/bnat-task-devops](https://github.com/adefemi171/bnat-task-devops)
-5. 💪 Opened PR [#3](https://github.com/adefemi171/bnat-task-devops/pull/3) in [adefemi171/bnat-task-devops](https://github.com/adefemi171/bnat-task-devops)
+1. 💪 Opened PR [#8](https://github.com/adefemi171/bmat-task-devops/pull/8) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
+2. 🎉 Merged PR [#7](https://github.com/adefemi171/bmat-task-devops/pull/7) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
+3. 💪 Opened PR [#7](https://github.com/adefemi171/bmat-task-devops/pull/7) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
+4. 🎉 Merged PR [#6](https://github.com/adefemi171/bmat-task-devops/pull/6) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
+5. 💪 Opened PR [#6](https://github.com/adefemi171/bmat-task-devops/pull/6) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
 <!--END_SECTION:activity-->
 
 </details>
