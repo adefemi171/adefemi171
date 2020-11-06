@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/briankabiro/react-native-get-sms-android/issues/61) in [briankabiro/react-native-get-sms-android](https://github.com/briankabiro/react-native-get-sms-android)
-2. 🎉 Merged PR [#12](https://github.com/adefemi171/bmat-task-devops/pull/12) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
-3. 💪 Opened PR [#12](https://github.com/adefemi171/bmat-task-devops/pull/12) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
-4. 🎉 Merged PR [#11](https://github.com/adefemi171/bmat-task-devops/pull/11) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
-5. 💪 Opened PR [#11](https://github.com/adefemi171/bmat-task-devops/pull/11) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
+1. 💪 Opened PR [#33](https://github.com/WuraLab/NigeriaApi/pull/33) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
+2. 🗣 Commented on [#61](https://github.com/briankabiro/react-native-get-sms-android/issues/61) in [briankabiro/react-native-get-sms-android](https://github.com/briankabiro/react-native-get-sms-android)
+3. 🎉 Merged PR [#12](https://github.com/adefemi171/bmat-task-devops/pull/12) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
+4. 💪 Opened PR [#12](https://github.com/adefemi171/bmat-task-devops/pull/12) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
+5. 🎉 Merged PR [#11](https://github.com/adefemi171/bmat-task-devops/pull/11) in [adefemi171/bmat-task-devops](https://github.com/adefemi171/bmat-task-devops)
 <!--END_SECTION:activity-->
 
 </details>
