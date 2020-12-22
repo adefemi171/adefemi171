@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Go App with Gitlab Runner on Azure |Part 1](https://medium.com/swlh/building-go-app-with-gitlab-runner-on-azure-part-1-5e2a21c47876?source=rss-c011ee23c0a1------2)
 - [Containerization |Part 3: LXD ON STEROID](https://medium.com/faun/containerization-part-3-lxd-on-steroid-cbf73fccbc72?source=rss-c011ee23c0a1------2)
 - [Creating a Covid-10 Dashboard using Cube.js and VueJS](https://medium.com/analytics-vidhya/creating-a-covid-10-dashboard-using-cube-js-and-vuejs-17377dda5ef8?source=rss-c011ee23c0a1------2)
 - [Containerization |Part 2: From LXD to Kubernetes](https://medium.com/faun/containerization-part-2-from-lxd-to-kubernetes-6d595035fbc9?source=rss-c011ee23c0a1------2)
 - [What the Heck is Containerization?](https://dev.to/adefemi171/what-the-heck-is-containerization-4bpo)
-- [Why Django?](https://medium.com/@adefemi171/why-django-dc2d4bc773ed?source=rss-c011ee23c0a1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adefemi171)
