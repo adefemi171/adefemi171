@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/WuraLab/NigeriaApi/pull/40) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
-2. 💪 Opened PR [#38](https://github.com/WuraLab/NigeriaApi/pull/38) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
-3. ❌ Closed PR [#34](https://github.com/WuraLab/NigeriaApi/pull/34) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
-4. 💪 Opened PR [#34](https://github.com/WuraLab/NigeriaApi/pull/34) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
-5. 💪 Opened PR [#33](https://github.com/WuraLab/NigeriaApi/pull/33) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
+1. 💪 Opened PR [#58](https://github.com/WuraLab/DNA_backend/pull/58) in [WuraLab/DNA_backend](https://github.com/WuraLab/DNA_backend)
+2. 💪 Opened PR [#40](https://github.com/WuraLab/NigeriaApi/pull/40) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
+3. 💪 Opened PR [#38](https://github.com/WuraLab/NigeriaApi/pull/38) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
+4. ❌ Closed PR [#34](https://github.com/WuraLab/NigeriaApi/pull/34) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
+5. 💪 Opened PR [#34](https://github.com/WuraLab/NigeriaApi/pull/34) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
 <!--END_SECTION:activity-->
 
 </details>
