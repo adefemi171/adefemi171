@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/WuraLab/DNA_backend/pull/58) in [WuraLab/DNA_backend](https://github.com/WuraLab/DNA_backend)
-2. 💪 Opened PR [#40](https://github.com/WuraLab/NigeriaApi/pull/40) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
-3. 💪 Opened PR [#38](https://github.com/WuraLab/NigeriaApi/pull/38) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
-4. ❌ Closed PR [#34](https://github.com/WuraLab/NigeriaApi/pull/34) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
-5. 💪 Opened PR [#34](https://github.com/WuraLab/NigeriaApi/pull/34) in [WuraLab/NigeriaApi](https://github.com/WuraLab/NigeriaApi)
+1. 🎉 Merged PR [#2](https://github.com/adefemi171/postgres-go-demo/pull/2) in [adefemi171/postgres-go-demo](https://github.com/adefemi171/postgres-go-demo)
+2. 💪 Opened PR [#2](https://github.com/adefemi171/postgres-go-demo/pull/2) in [adefemi171/postgres-go-demo](https://github.com/adefemi171/postgres-go-demo)
+3. 🎉 Merged PR [#1](https://github.com/adefemi171/postgres-go-demo/pull/1) in [adefemi171/postgres-go-demo](https://github.com/adefemi171/postgres-go-demo)
+4. 💪 Opened PR [#1](https://github.com/adefemi171/postgres-go-demo/pull/1) in [adefemi171/postgres-go-demo](https://github.com/adefemi171/postgres-go-demo)
+5. 💪 Opened PR [#1](https://github.com/dabsclement/go-gin-api/pull/1) in [dabsclement/go-gin-api](https://github.com/dabsclement/go-gin-api)
 <!--END_SECTION:activity-->
 
 </details>
