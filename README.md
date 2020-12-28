@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/adefemi171/postgres-go-demo/pull/2) in [adefemi171/postgres-go-demo](https://github.com/adefemi171/postgres-go-demo)
-2. 💪 Opened PR [#2](https://github.com/adefemi171/postgres-go-demo/pull/2) in [adefemi171/postgres-go-demo](https://github.com/adefemi171/postgres-go-demo)
-3. 🎉 Merged PR [#1](https://github.com/adefemi171/postgres-go-demo/pull/1) in [adefemi171/postgres-go-demo](https://github.com/adefemi171/postgres-go-demo)
-4. 💪 Opened PR [#1](https://github.com/adefemi171/postgres-go-demo/pull/1) in [adefemi171/postgres-go-demo](https://github.com/adefemi171/postgres-go-demo)
-5. 💪 Opened PR [#1](https://github.com/dabsclement/go-gin-api/pull/1) in [dabsclement/go-gin-api](https://github.com/dabsclement/go-gin-api)
+1. 💪 Opened PR [#1](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions/pull/1) in [BethanyJep/season-of-serverless-africa-azure-functions](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions)
+2. 🎉 Merged PR [#2](https://github.com/adefemi171/season-of-serverless-meals/pull/2) in [adefemi171/season-of-serverless-meals](https://github.com/adefemi171/season-of-serverless-meals)
+3. 💪 Opened PR [#2](https://github.com/adefemi171/season-of-serverless-meals/pull/2) in [adefemi171/season-of-serverless-meals](https://github.com/adefemi171/season-of-serverless-meals)
+4. 🎉 Merged PR [#1](https://github.com/adefemi171/season-of-serverless-meals/pull/1) in [adefemi171/season-of-serverless-meals](https://github.com/adefemi171/season-of-serverless-meals)
+5. 🎉 Merged PR [#2](https://github.com/adefemi171/postgres-go-demo/pull/2) in [adefemi171/postgres-go-demo](https://github.com/adefemi171/postgres-go-demo)
 <!--END_SECTION:activity-->
 
 </details>
