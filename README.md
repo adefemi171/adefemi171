@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions/pull/3) in [BethanyJep/season-of-serverless-africa-azure-functions](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions)
-2. 💪 Opened PR [#2](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions/pull/2) in [BethanyJep/season-of-serverless-africa-azure-functions](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions)
-3. 💪 Opened PR [#1](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions/pull/1) in [BethanyJep/season-of-serverless-africa-azure-functions](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions)
-4. 🎉 Merged PR [#2](https://github.com/adefemi171/season-of-serverless-meals/pull/2) in [adefemi171/season-of-serverless-meals](https://github.com/adefemi171/season-of-serverless-meals)
-5. 💪 Opened PR [#2](https://github.com/adefemi171/season-of-serverless-meals/pull/2) in [adefemi171/season-of-serverless-meals](https://github.com/adefemi171/season-of-serverless-meals)
+1. 🗣 Commented on [#9](https://github.com/instamobile/recipes-app-react-native/issues/9) in [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native)
+2. 💪 Opened PR [#3](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions/pull/3) in [BethanyJep/season-of-serverless-africa-azure-functions](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions)
+3. 💪 Opened PR [#2](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions/pull/2) in [BethanyJep/season-of-serverless-africa-azure-functions](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions)
+4. 💪 Opened PR [#1](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions/pull/1) in [BethanyJep/season-of-serverless-africa-azure-functions](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions)
+5. 🎉 Merged PR [#2](https://github.com/adefemi171/season-of-serverless-meals/pull/2) in [adefemi171/season-of-serverless-meals](https://github.com/adefemi171/season-of-serverless-meals)
 <!--END_SECTION:activity-->
 
 </details>
