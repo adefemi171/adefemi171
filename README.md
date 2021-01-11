@@ -62,10 +62,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#126](https://github.com/nickmerwin/node-coveralls/issues/126) in [nickmerwin/node-coveralls](https://github.com/nickmerwin/node-coveralls)
-2. ❗️ Closed issue [#42](https://github.com/wumke/react-native-immediate-phone-call/issues/42) in [wumke/react-native-immediate-phone-call](https://github.com/wumke/react-native-immediate-phone-call)
-3. 🗣 Commented on [#42](https://github.com/wumke/react-native-immediate-phone-call/issues/42) in [wumke/react-native-immediate-phone-call](https://github.com/wumke/react-native-immediate-phone-call)
-4. 🗣 Commented on [#9](https://github.com/instamobile/recipes-app-react-native/issues/9) in [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native)
-5. 💪 Opened PR [#3](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions/pull/3) in [BethanyJep/season-of-serverless-africa-azure-functions](https://github.com/BethanyJep/season-of-serverless-africa-azure-functions)
+2. 🗣 Commented on [#126](https://github.com/nickmerwin/node-coveralls/issues/126) in [nickmerwin/node-coveralls](https://github.com/nickmerwin/node-coveralls)
+3. ❗️ Closed issue [#42](https://github.com/wumke/react-native-immediate-phone-call/issues/42) in [wumke/react-native-immediate-phone-call](https://github.com/wumke/react-native-immediate-phone-call)
+4. 🗣 Commented on [#42](https://github.com/wumke/react-native-immediate-phone-call/issues/42) in [wumke/react-native-immediate-phone-call](https://github.com/wumke/react-native-immediate-phone-call)
+5. 🗣 Commented on [#9](https://github.com/instamobile/recipes-app-react-native/issues/9) in [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native)
 <!--END_SECTION:activity-->
 
 </details>
