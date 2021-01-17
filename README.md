@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/nickmerwin/node-coveralls/issues/126) in [nickmerwin/node-coveralls](https://github.com/nickmerwin/node-coveralls)
-2. 🗣 Commented on [#126](https://github.com/nickmerwin/node-coveralls/issues/126) in [nickmerwin/node-coveralls](https://github.com/nickmerwin/node-coveralls)
-3. ❗️ Closed issue [#42](https://github.com/wumke/react-native-immediate-phone-call/issues/42) in [wumke/react-native-immediate-phone-call](https://github.com/wumke/react-native-immediate-phone-call)
-4. 🗣 Commented on [#42](https://github.com/wumke/react-native-immediate-phone-call/issues/42) in [wumke/react-native-immediate-phone-call](https://github.com/wumke/react-native-immediate-phone-call)
-5. 🗣 Commented on [#9](https://github.com/instamobile/recipes-app-react-native/issues/9) in [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native)
+1. 🎉 Merged PR [#9](https://github.com/adefemi171/random-joke-proj/pull/9) in [adefemi171/random-joke-proj](https://github.com/adefemi171/random-joke-proj)
+2. 💪 Opened PR [#9](https://github.com/adefemi171/random-joke-proj/pull/9) in [adefemi171/random-joke-proj](https://github.com/adefemi171/random-joke-proj)
+3. 🎉 Merged PR [#8](https://github.com/adefemi171/random-joke-proj/pull/8) in [adefemi171/random-joke-proj](https://github.com/adefemi171/random-joke-proj)
+4. 💪 Opened PR [#8](https://github.com/adefemi171/random-joke-proj/pull/8) in [adefemi171/random-joke-proj](https://github.com/adefemi171/random-joke-proj)
+5. 🎉 Merged PR [#7](https://github.com/adefemi171/random-joke-proj/pull/7) in [adefemi171/random-joke-proj](https://github.com/adefemi171/random-joke-proj)
 <!--END_SECTION:activity-->
 
 </details>
