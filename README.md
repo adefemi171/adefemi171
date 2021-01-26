@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/adefemi171/web-app/pull/3) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
-2. 💪 Opened PR [#3](https://github.com/adefemi171/web-app/pull/3) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
-3. 🎉 Merged PR [#2](https://github.com/adefemi171/web-app/pull/2) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
-4. 💪 Opened PR [#2](https://github.com/adefemi171/web-app/pull/2) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
-5. 🎉 Merged PR [#1](https://github.com/adefemi171/web-app/pull/1) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
+1. 🎉 Merged PR [#6](https://github.com/adefemi171/web-app/pull/6) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
+2. 💪 Opened PR [#6](https://github.com/adefemi171/web-app/pull/6) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
+3. 🎉 Merged PR [#5](https://github.com/adefemi171/web-app/pull/5) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
+4. 💪 Opened PR [#5](https://github.com/adefemi171/web-app/pull/5) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
+5. 🎉 Merged PR [#4](https://github.com/adefemi171/web-app/pull/4) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
 <!--END_SECTION:activity-->
 
 </details>
