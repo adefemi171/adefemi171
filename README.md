@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/WuraLab/Boardly/pull/33) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-2. 🗣 Commented on [#3](https://github.com/asadmansr/Firebase-Test-Lab-Action/issues/3) in [asadmansr/Firebase-Test-Lab-Action](https://github.com/asadmansr/Firebase-Test-Lab-Action)
-3. 🎉 Merged PR [#10](https://github.com/adefemi171/web-app/pull/10) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
-4. 💪 Opened PR [#10](https://github.com/adefemi171/web-app/pull/10) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
-5. 🎉 Merged PR [#9](https://github.com/adefemi171/web-app/pull/9) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
+1. 💪 Opened PR [#38](https://github.com/WuraLab/Boardly/pull/38) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+2. 💪 Opened PR [#33](https://github.com/WuraLab/Boardly/pull/33) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+3. 🗣 Commented on [#3](https://github.com/asadmansr/Firebase-Test-Lab-Action/issues/3) in [asadmansr/Firebase-Test-Lab-Action](https://github.com/asadmansr/Firebase-Test-Lab-Action)
+4. 🎉 Merged PR [#10](https://github.com/adefemi171/web-app/pull/10) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
+5. 💪 Opened PR [#10](https://github.com/adefemi171/web-app/pull/10) in [adefemi171/web-app](https://github.com/adefemi171/web-app)
 <!--END_SECTION:activity-->
 
 </details>
