@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/adefemi171/adefemi171.github.io/pull/1) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-2. 💪 Opened PR [#1](https://github.com/adefemi171/adefemi171.github.io/pull/1) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-3. ❌ Closed PR [#33](https://github.com/WuraLab/Boardly/pull/33) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-4. 🗣 Commented on [#37](https://github.com/WuraLab/Boardly/issues/37) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-5. 💪 Opened PR [#38](https://github.com/WuraLab/Boardly/pull/38) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+1. 💪 Opened PR [#47](https://github.com/WuraLab/Boardly/pull/47) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+2. 🎉 Merged PR [#1](https://github.com/adefemi171/adefemi171.github.io/pull/1) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
+3. 💪 Opened PR [#1](https://github.com/adefemi171/adefemi171.github.io/pull/1) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
+4. ❌ Closed PR [#33](https://github.com/WuraLab/Boardly/pull/33) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+5. 🗣 Commented on [#37](https://github.com/WuraLab/Boardly/issues/37) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
 <!--END_SECTION:activity-->
 
 </details>
