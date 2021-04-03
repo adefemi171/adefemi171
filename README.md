@@ -62,10 +62,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#61](https://github.com/WuraLab/Boardly/issues/61) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-2. 💪 Opened PR [#61](https://github.com/WuraLab/Boardly/pull/61) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-3. 🎉 Merged PR [#2](https://github.com/adefemi171/adefemi171.github.io/pull/2) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-4. 💪 Opened PR [#2](https://github.com/adefemi171/adefemi171.github.io/pull/2) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-5. 🗣 Commented on [#39](https://github.com/WuraLab/Boardly/issues/39) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+2. 🗣 Commented on [#61](https://github.com/WuraLab/Boardly/issues/61) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+3. 💪 Opened PR [#61](https://github.com/WuraLab/Boardly/pull/61) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+4. 🎉 Merged PR [#2](https://github.com/adefemi171/adefemi171.github.io/pull/2) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
+5. 💪 Opened PR [#2](https://github.com/adefemi171/adefemi171.github.io/pull/2) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
 <!--END_SECTION:activity-->
 
 </details>
