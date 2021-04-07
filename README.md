@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/WuraLab/Boardly/issues/63) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-2. 🗣 Commented on [#63](https://github.com/WuraLab/Boardly/issues/63) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-3. 💪 Opened PR [#63](https://github.com/WuraLab/Boardly/pull/63) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-4. 🎉 Merged PR [#7](https://github.com/adefemi171/wiki-donate/pull/7) in [adefemi171/wiki-donate](https://github.com/adefemi171/wiki-donate)
-5. 💪 Opened PR [#7](https://github.com/adefemi171/wiki-donate/pull/7) in [adefemi171/wiki-donate](https://github.com/adefemi171/wiki-donate)
+1. 🎉 Merged PR [#9](https://github.com/adefemi171/wiki-donate/pull/9) in [adefemi171/wiki-donate](https://github.com/adefemi171/wiki-donate)
+2. 💪 Opened PR [#9](https://github.com/adefemi171/wiki-donate/pull/9) in [adefemi171/wiki-donate](https://github.com/adefemi171/wiki-donate)
+3. 🎉 Merged PR [#8](https://github.com/adefemi171/wiki-donate/pull/8) in [adefemi171/wiki-donate](https://github.com/adefemi171/wiki-donate)
+4. 💪 Opened PR [#8](https://github.com/adefemi171/wiki-donate/pull/8) in [adefemi171/wiki-donate](https://github.com/adefemi171/wiki-donate)
+5. 🗣 Commented on [#63](https://github.com/WuraLab/Boardly/issues/63) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
 <!--END_SECTION:activity-->
 
 </details>
