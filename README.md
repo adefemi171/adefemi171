@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/adefemi171/wiki-donate/pull/9) in [adefemi171/wiki-donate](https://github.com/adefemi171/wiki-donate)
-2. 💪 Opened PR [#9](https://github.com/adefemi171/wiki-donate/pull/9) in [adefemi171/wiki-donate](https://github.com/adefemi171/wiki-donate)
-3. 🎉 Merged PR [#8](https://github.com/adefemi171/wiki-donate/pull/8) in [adefemi171/wiki-donate](https://github.com/adefemi171/wiki-donate)
-4. 💪 Opened PR [#8](https://github.com/adefemi171/wiki-donate/pull/8) in [adefemi171/wiki-donate](https://github.com/adefemi171/wiki-donate)
-5. 🗣 Commented on [#63](https://github.com/WuraLab/Boardly/issues/63) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+1. 🎉 Merged PR [#4](https://github.com/adefemi171/Code_UI/pull/4) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+2. 💪 Opened PR [#4](https://github.com/adefemi171/Code_UI/pull/4) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+3. 🎉 Merged PR [#3](https://github.com/adefemi171/Code_UI/pull/3) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+4. 💪 Opened PR [#3](https://github.com/adefemi171/Code_UI/pull/3) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+5. 🎉 Merged PR [#2](https://github.com/adefemi171/Code_UI/pull/2) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
 <!--END_SECTION:activity-->
 
 </details>
