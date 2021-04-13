@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/adefemi171/Code_UI/pull/6) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
-2. 💪 Opened PR [#6](https://github.com/adefemi171/Code_UI/pull/6) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
-3. 🎉 Merged PR [#5](https://github.com/adefemi171/Code_UI/pull/5) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
-4. 💪 Opened PR [#5](https://github.com/adefemi171/Code_UI/pull/5) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
-5. 🎉 Merged PR [#4](https://github.com/adefemi171/Code_UI/pull/4) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+1. 🎉 Merged PR [#8](https://github.com/adefemi171/Code_UI/pull/8) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+2. 💪 Opened PR [#8](https://github.com/adefemi171/Code_UI/pull/8) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+3. 🎉 Merged PR [#7](https://github.com/adefemi171/Code_UI/pull/7) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+4. 💪 Opened PR [#7](https://github.com/adefemi171/Code_UI/pull/7) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+5. 🎉 Merged PR [#6](https://github.com/adefemi171/Code_UI/pull/6) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
 <!--END_SECTION:activity-->
 
 </details>
