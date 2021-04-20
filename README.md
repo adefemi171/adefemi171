@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/adefemi171/Code_UI/pull/14) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
-2. 🗣 Commented on [#14](https://github.com/adefemi171/Code_UI/issues/14) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
-3. 🗣 Commented on [#14](https://github.com/adefemi171/Code_UI/issues/14) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
-4. 💪 Opened PR [#14](https://github.com/adefemi171/Code_UI/pull/14) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
-5. ❗️ Opened issue [#73](https://github.com/WuraLab/Boardly/issues/73) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+1. 🎉 Merged PR [#15](https://github.com/adefemi171/Code_UI/pull/15) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+2. 💪 Opened PR [#15](https://github.com/adefemi171/Code_UI/pull/15) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+3. 💪 Opened PR [#74](https://github.com/WuraLab/Boardly/pull/74) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+4. 🎉 Merged PR [#14](https://github.com/adefemi171/Code_UI/pull/14) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
+5. 🗣 Commented on [#14](https://github.com/adefemi171/Code_UI/issues/14) in [adefemi171/Code_UI](https://github.com/adefemi171/Code_UI)
 <!--END_SECTION:activity-->
 
 </details>
