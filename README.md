@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](https://github.com/WuraLab/Boardly/pull/99) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-2. ❌ Closed PR [#98](https://github.com/WuraLab/Boardly/pull/98) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-3. 💪 Opened PR [#98](https://github.com/WuraLab/Boardly/pull/98) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-4. 🗣 Commented on [#93](https://github.com/WuraLab/Boardly/issues/93) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-5. 🗣 Commented on [#87](https://github.com/WuraLab/Boardly/issues/87) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+1. 🗣 Commented on [#93](https://github.com/WuraLab/Boardly/issues/93) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+2. 💪 Opened PR [#99](https://github.com/WuraLab/Boardly/pull/99) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+3. ❌ Closed PR [#98](https://github.com/WuraLab/Boardly/pull/98) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+4. 💪 Opened PR [#98](https://github.com/WuraLab/Boardly/pull/98) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+5. 🗣 Commented on [#93](https://github.com/WuraLab/Boardly/issues/93) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
 <!--END_SECTION:activity-->
 
 </details>
