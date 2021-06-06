@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/adefemi171/adefemi171.github.io/pull/3) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-2. 💪 Opened PR [#3](https://github.com/adefemi171/adefemi171.github.io/pull/3) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-3. 🗣 Commented on [#56](https://github.com/WuraLab/Boardly/issues/56) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-4. 🗣 Commented on [#50](https://github.com/WuraLab/Boardly/issues/50) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
-5. 🗣 Commented on [#100](https://github.com/WuraLab/Boardly/issues/100) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+1. 🎉 Merged PR [#5](https://github.com/Mbaoma/ci-cd-tutorial/pull/5) in [Mbaoma/ci-cd-tutorial](https://github.com/Mbaoma/ci-cd-tutorial)
+2. 🎉 Merged PR [#3](https://github.com/adefemi171/adefemi171.github.io/pull/3) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
+3. 💪 Opened PR [#3](https://github.com/adefemi171/adefemi171.github.io/pull/3) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
+4. 🗣 Commented on [#56](https://github.com/WuraLab/Boardly/issues/56) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+5. 🗣 Commented on [#50](https://github.com/WuraLab/Boardly/issues/50) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
 <!--END_SECTION:activity-->
 
 </details>
