@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/phemmmie/Kinesis-firehorse/pull/1) in [phemmmie/Kinesis-firehorse](https://github.com/phemmmie/Kinesis-firehorse)
-2. 🎉 Merged PR [#5](https://github.com/Mbaoma/ci-cd-tutorial/pull/5) in [Mbaoma/ci-cd-tutorial](https://github.com/Mbaoma/ci-cd-tutorial)
-3. 🎉 Merged PR [#3](https://github.com/adefemi171/adefemi171.github.io/pull/3) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-4. 💪 Opened PR [#3](https://github.com/adefemi171/adefemi171.github.io/pull/3) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-5. 🗣 Commented on [#56](https://github.com/WuraLab/Boardly/issues/56) in [WuraLab/Boardly](https://github.com/WuraLab/Boardly)
+1. 💪 Opened PR [#2](https://github.com/phemmmie/Kinesis-firehorse/pull/2) in [phemmmie/Kinesis-firehorse](https://github.com/phemmmie/Kinesis-firehorse)
+2. 💪 Opened PR [#1](https://github.com/phemmmie/Kinesis-firehorse/pull/1) in [phemmmie/Kinesis-firehorse](https://github.com/phemmmie/Kinesis-firehorse)
+3. 🎉 Merged PR [#5](https://github.com/Mbaoma/ci-cd-tutorial/pull/5) in [Mbaoma/ci-cd-tutorial](https://github.com/Mbaoma/ci-cd-tutorial)
+4. 🎉 Merged PR [#3](https://github.com/adefemi171/adefemi171.github.io/pull/3) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
+5. 💪 Opened PR [#3](https://github.com/adefemi171/adefemi171.github.io/pull/3) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
 <!--END_SECTION:activity-->
 
 </details>
