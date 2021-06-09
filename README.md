@@ -61,11 +61,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/adefemi171/terraform-openvpn-module/pull/1) in [adefemi171/terraform-openvpn-module](https://github.com/adefemi171/terraform-openvpn-module)
-2. 💪 Opened PR [#2](https://github.com/phemmmie/Kinesis-firehorse/pull/2) in [phemmmie/Kinesis-firehorse](https://github.com/phemmmie/Kinesis-firehorse)
-3. 💪 Opened PR [#1](https://github.com/phemmmie/Kinesis-firehorse/pull/1) in [phemmmie/Kinesis-firehorse](https://github.com/phemmmie/Kinesis-firehorse)
-4. 🎉 Merged PR [#5](https://github.com/Mbaoma/ci-cd-tutorial/pull/5) in [Mbaoma/ci-cd-tutorial](https://github.com/Mbaoma/ci-cd-tutorial)
-5. 🎉 Merged PR [#3](https://github.com/adefemi171/adefemi171.github.io/pull/3) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
+1. 🎉 Merged PR [#2](https://github.com/adefemi171/AWS-Kinesis-firehose-sqs/pull/2) in [adefemi171/AWS-Kinesis-firehose-sqs](https://github.com/adefemi171/AWS-Kinesis-firehose-sqs)
+2. 💪 Opened PR [#2](https://github.com/adefemi171/AWS-Kinesis-firehose-sqs/pull/2) in [adefemi171/AWS-Kinesis-firehose-sqs](https://github.com/adefemi171/AWS-Kinesis-firehose-sqs)
+3. 🎉 Merged PR [#1](https://github.com/adefemi171/AWS-Kinesis-firehose-sqs/pull/1) in [adefemi171/AWS-Kinesis-firehose-sqs](https://github.com/adefemi171/AWS-Kinesis-firehose-sqs)
+4. 💪 Opened PR [#1](https://github.com/adefemi171/AWS-Kinesis-firehose-sqs/pull/1) in [adefemi171/AWS-Kinesis-firehose-sqs](https://github.com/adefemi171/AWS-Kinesis-firehose-sqs)
+5. 💪 Opened PR [#1](https://github.com/adefemi171/terraform-openvpn-module/pull/1) in [adefemi171/terraform-openvpn-module](https://github.com/adefemi171/terraform-openvpn-module)
 <!--END_SECTION:activity-->
 
 </details>
