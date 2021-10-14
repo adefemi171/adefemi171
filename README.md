@@ -61,8 +61,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/adefemi171/adefemi171.github.io/pull/6) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
-2. 💪 Opened PR [#6](https://github.com/adefemi171/adefemi171.github.io/pull/6) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
+1. 🎉 Merged PR [#1](https://github.com/adefemi171/terraform-ec2/pull/1) in [adefemi171/terraform-ec2](https://github.com/adefemi171/terraform-ec2)
+2. 💪 Opened PR [#1](https://github.com/adefemi171/terraform-ec2/pull/1) in [adefemi171/terraform-ec2](https://github.com/adefemi171/terraform-ec2)
 3. 🎉 Merged PR [#5](https://github.com/adefemi171/adefemi171.github.io/pull/5) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
 4. 💪 Opened PR [#5](https://github.com/adefemi171/adefemi171.github.io/pull/5) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
 5. 🎉 Merged PR [#4](https://github.com/adefemi171/adefemi171.github.io/pull/4) in [adefemi171/adefemi171.github.io](https://github.com/adefemi171/adefemi171.github.io)
