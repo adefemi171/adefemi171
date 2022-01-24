@@ -61,8 +61,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/adefemi171/inventory-app/pull/1) in [adefemi171/inventory-app](https://github.com/adefemi171/inventory-app)
-2. 🎉 Merged PR [#4](https://github.com/adefemi171/terraform-ec2/pull/4) in [adefemi171/terraform-ec2](https://github.com/adefemi171/terraform-ec2)
+1. 💪 Opened PR [#1](https://github.com/adefemi171/lazer-maze/pull/1) in [adefemi171/lazer-maze](https://github.com/adefemi171/lazer-maze)
+2. 🎉 Merged PR [#1](https://github.com/adefemi171/inventory-app/pull/1) in [adefemi171/inventory-app](https://github.com/adefemi171/inventory-app)
 3. 💪 Opened PR [#4](https://github.com/adefemi171/terraform-ec2/pull/4) in [adefemi171/terraform-ec2](https://github.com/adefemi171/terraform-ec2)
 4. 🎉 Merged PR [#3](https://github.com/adefemi171/terraform-ec2/pull/3) in [adefemi171/terraform-ec2](https://github.com/adefemi171/terraform-ec2)
 5. 💪 Opened PR [#3](https://github.com/adefemi171/terraform-ec2/pull/3) in [adefemi171/terraform-ec2](https://github.com/adefemi171/terraform-ec2)
