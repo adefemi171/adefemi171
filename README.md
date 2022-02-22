@@ -61,10 +61,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/adefemi171/lazer-maze/pull/1) in [adefemi171/lazer-maze](https://github.com/adefemi171/lazer-maze)
-2. 💪 Opened PR [#1](https://github.com/adefemi171/lazer-maze/pull/1) in [adefemi171/lazer-maze](https://github.com/adefemi171/lazer-maze)
-3. 🎉 Merged PR [#1](https://github.com/adefemi171/inventory-app/pull/1) in [adefemi171/inventory-app](https://github.com/adefemi171/inventory-app)
-4. 🎉 Merged PR [#3](https://github.com/adefemi171/terraform-ec2/pull/3) in [adefemi171/terraform-ec2](https://github.com/adefemi171/terraform-ec2)
+1. ❗️ Opened issue [#11144](https://github.com/hashicorp/terraform-provider-google/issues/11144) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
+2. 🎉 Merged PR [#1](https://github.com/adefemi171/lazer-maze/pull/1) in [adefemi171/lazer-maze](https://github.com/adefemi171/lazer-maze)
+3. 💪 Opened PR [#1](https://github.com/adefemi171/lazer-maze/pull/1) in [adefemi171/lazer-maze](https://github.com/adefemi171/lazer-maze)
+4. 🎉 Merged PR [#1](https://github.com/adefemi171/inventory-app/pull/1) in [adefemi171/inventory-app](https://github.com/adefemi171/inventory-app)
 5. 💪 Opened PR [#3](https://github.com/adefemi171/terraform-ec2/pull/3) in [adefemi171/terraform-ec2](https://github.com/adefemi171/terraform-ec2)
 <!--END_SECTION:activity-->
 
