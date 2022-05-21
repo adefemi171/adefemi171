@@ -13,8 +13,8 @@
 
 ### Spotify Playing 🎧
 [<img src="https://nova-spotify.adefemi171.vercel.app/api/spotify-playing" alt="Adefemi Spotify Playing" width="350" />](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
-<a href="[https://MY_VERCEL_DEPLOYMENT_URL/now-playing](https://adefemi-spotify-now-playing.vercel.app/now-playing)?open">
-    <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="350" height="64" alt="Adefemi Spotify Now Playing">`
+<a href="https://adefemi-spotify-now-playing.vercel.app/now-playing?open">
+    <img src="https://adefemi-spotify-now-playing.vercel.app/now-playing" width="350" height="64" alt="Now Playing">`
 </a>
 
 ---
