@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@daycrawller-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daycrawller)](https://twitter.com/daycrawller) [![Linkedin Badge](https://img.shields.io/badge/-AdefemiMicheal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/afuwape-adefemi-micheal/) [![Medium Badge](https://img.shields.io/badge/-@adefemi171-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/adefemi171)
 [![Gmail Badge](https://img.shields.io/badge/-adefemi171@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adefemi171@gmail.com)](mailto:adefemi171@gmail.com)
 
-- Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria, a graduate of Computer Science from University of Ibadan. DevOps Engineering during the day 👨🏽‍💻, super hero at night 🦹🏽‍♂️. I love networking and mentoring :8ball: :revolving_hearts:
+- Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria. A graduate of Computer Science from University of Ibadan. DevOps Engineering during the day 👨🏽‍💻, super hero at night 🦹🏽‍♂️. I love networking and mentoring :8ball: :revolving_hearts:
 
 ---
 
@@ -22,10 +22,29 @@
     
 ---
 
+## 💬 Details
+- Name: Adefemi Micheal
+- 😄 Pronouns: He/Him :man:
+- Employer: 
+<!-- - Presentations -->
+- Portfolio: [Portfolio](https://adefemi.netlify.com/)
+
+- ⚡ Fun fact: If you shuffle a deck of cards, it's most probable that order of cards has never been shuffled in the whole of human history.
+
+
+---
+
 ## 👯 Communities
 - Ex Microsoft Learn Student Ambassadors
 - Ex Google Developers Student Club
 - Ex HackerEarth Campus Ambassador
+
+---
+
+## 📣📣 Talks and Events
+- [HashiTalk Africa '22](https://youtu.be/sGuAHS8Pcjs?list=PL81sUbsFNc5Y5qmpyaIzzSHmmBELCRkbb&t=11510)
+- [Google Developers Student Club University of Ibadan '21](https://gdsc.community.dev/events/details/developer-student-clubs-university-of-ibadan-presents-gdsc-university-of-ibadan-info-session/)
+
 
 ---
 
@@ -36,15 +55,62 @@
   <td width="50%">
 
 &nbsp; <br> Company Name
-
-  </td>
+<br>
+Co-Creation Hub (CcHUB)
+<br>
+PayDay
+<br>
+Automation Cube LLC
+<br>
+Raoatech IT-ELECTROMECH LIMITED
+<br>
+ChangeMaker In Slums (CIS)
+</td>
   <td width="50%">
 
-&nbsp;<p align="center">This repository is [unlicense](https://choosealicense.com/licenses/unlicense/)[d], feel free to fork!<br><br>
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
-[![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+&nbsp;<p align="center">Role
+  <br>
+  DevOps Enigneer
+  <br>
+  DevOps Engineer
+  <br>
+  DevOps Engineer
+  <br>
+  DevOps Engineer
+  <br>
+  Software Engineer
+  </p>
+  </td>
 
+  <td width="50%">
+
+&nbsp;<p align="center">Employment Type
+  <br>
+  Contract
+  <br>
+  Contract
+  <br>
+  Full Time
+  <br>
+  Contract
+  <br>
+  Internship
+  </p>
+  </td>
+
+  <td width="50%">
+
+&nbsp;<p align="center">Month/Years
+  <br>
+  Sep 2021 - Present
+  <br>
+  Aug 2021 - Oct 2021
+  <br>
+  Feb 2019 - Jun 2021
+  <br>
+  Dec 2022 - Apr 2021
+  <br>
+  Jan 2019 - Jun 2019
   </p>
   </td>
 </table>
@@ -58,18 +124,6 @@
 
 ## 🌱 I’m currently learning
 - Every new tools that comes my Way
----
-
-## 💬 Details
-- Name: Adefemi .A. Micheal
-- 😄 Pronouns: He/Him :man:
-- Employer
-<!-- - Presentations -->
-- Portfolio: [Portfolio](https://adefemi.netlify.com/)
-
-- ⚡ Fun fact: Cheetah's can swim
-
-
 ---
 
 ### 📕 Latest Blog Posts
