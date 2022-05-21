@@ -49,13 +49,13 @@
 ---
 
 ## 🔭 Past Experience
-| Company                         | Role             | Employment Type     | Month/Years             |
-| :---                            | :----:           |          ---:       |     ---:                |  
-| Co-Creation Hub (CcHUB)         | DevOps Engineer  | Contract            | Sep 2021 - Present      |
-| PayDay                          | DevOps Engineer  | Contract            | Aug 2021 - Oct 2021     |
-| Automation Cube LLC             | DevOps Engineer  | Full Time           | Feb 2019 - Jun 2021     |
-| Raoatech IT-ELECTROMECH LIMITED | DevOps Engineer  | Contract            | Dec 2022 - Apr 2021     |
-| ChangeMaker In Slums (CIS)      | Software Engineer| Internship          | Jan 2019 - Jun 2019     |
+| Company                         | Role             | Employment Type     | Month/Years          |
+| :---                            | :----:           | :---:               | :---:                |  
+| Co-Creation Hub (CcHUB)         | DevOps Engineer  | Contract            | Sep 2021 - Present   |
+| PayDay                          | DevOps Engineer  | Contract            | Aug 2021 - Oct 2021  |
+| Automation Cube LLC             | DevOps Engineer  | Full-Time           | Feb 2019 - Jun 2021  |
+| Raoatech IT-ELECTROMECH LIMITED | DevOps Engineer  | Contract            | Dec 2022 - Apr 2021  |
+| ChangeMaker In Slums (CIS)      | Software Engineer| Internship          | Jan 2019 - Jun 2019  |
 
 ---
 
