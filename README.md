@@ -49,71 +49,13 @@
 ---
 
 ## 🔭 Past Experience
-
- <table width="100%"> 
-  <tr>
-  <td width="50%">
-
-&nbsp; <br> Company Name
-<br>
-Co-Creation Hub (CcHUB)
-<br>
-PayDay
-<br>
-Automation Cube LLC
-<br>
-Raoatech IT-ELECTROMECH LIMITED
-<br>
-ChangeMaker In Slums (CIS)
-</td>
-  <td width="50%">
-
-&nbsp;<p align="center">Role
-  <br>
-  DevOps Enigneer
-  <br>
-  DevOps Engineer
-  <br>
-  DevOps Engineer
-  <br>
-  DevOps Engineer
-  <br>
-  Software Engineer
-  </p>
-  </td>
-
-  <td width="50%">
-
-&nbsp;<p align="center">Employment Type
-  <br>
-  Contract
-  <br>
-  Contract
-  <br>
-  Full Time
-  <br>
-  Contract
-  <br>
-  Internship
-  </p>
-  </td>
-
-  <td width="50%">
-
-&nbsp;<p align="center">Month/Years
-  <br>
-  Sep 2021 - Present
-  <br>
-  Aug 2021 - Oct 2021
-  <br>
-  Feb 2019 - Jun 2021
-  <br>
-  Dec 2022 - Apr 2021
-  <br>
-  Jan 2019 - Jun 2019
-  </p>
-  </td>
-</table>
+| Company                         | Role             | Employment Type     | Month/Years             |
+| :---                            | :----:           |          ---:       |     ---:                |  
+| Co-Creation Hub (CcHUB)         | DevOps Engineer  | Contract            | Sep 2021 - Present      |
+| PayDay                          | DevOps Engineer  | Contract            | Aug 2021 - Oct 2021     |
+| Automation Cube LLC             | DevOps Engineer  | Full Time           | Feb 2019 - Jun 2021     |
+| Raoatech IT-ELECTROMECH LIMITED | DevOps Engineer  | Contract            | Dec 2022 - Apr 2021     |
+| ChangeMaker In Slums (CIS)      | Software Engineer| Internship          | Jan 2019 - Jun 2019     |
 
 ---
 
