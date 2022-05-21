@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@daycrawller-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daycrawller)](https://twitter.com/daycrawller) [![Linkedin Badge](https://img.shields.io/badge/-AdefemiMicheal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/afuwape-adefemi-micheal/) [![Medium Badge](https://img.shields.io/badge/-@adefemi171-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/adefemi171)
 [![Gmail Badge](https://img.shields.io/badge/-adefemi171@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adefemi171@gmail.com)](mailto:adefemi171@gmail.com)
 
-- Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria and currently studying Computer Science in University of Ibadan. I love networking and mentoring :8ball: :revolving_hearts:
+- Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria, a graduate of Computer Science from University of Ibadan. DevOps Engineering during the day 👨🏽‍💻, super hero at night 🦹🏽‍♂️. I love networking and mentoring :8ball: :revolving_hearts:
 
 ---
 
@@ -17,19 +17,34 @@
 </a>
 
 ---
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://adefemi-spotify-now-playing.vercel.app/now-playing?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
+
+</table>
+
+---
 
 ## 👯 Communities
-- Microsoft Learn Student Ambassadors 
-- HackerEarth Campus Ambassador
+- Ex Microsoft Learn Student Ambassadors
+- Ex Google Developers Student Club
+- Ex HackerEarth Campus Ambassador
+
+---
+
+## 🔭 Past Experience
 
 ---
 
 ## 🔭 I’m currently working on
+- Building and contributng to tools that helps Africans and the world at large
 
 ---
 
 ## 🌱 I’m currently learning
-
+- Every new tools that comes my Way
 ---
 
 ## 💬 Details
