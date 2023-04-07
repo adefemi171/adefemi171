@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@daycrawller-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daycrawller)](https://twitter.com/daycrawller) [![Linkedin Badge](https://img.shields.io/badge/-AdefemiMicheal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/afuwape-adefemi-micheal/) [![Medium Badge](https://img.shields.io/badge/-@adefemi171-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/adefemi171)
 [![Gmail Badge](https://img.shields.io/badge/-adefemi171@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adefemi171@gmail.com)](mailto:adefemi171@gmail.com)
 
-- Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria. A graduate of Computer Science from University of Ibadan. DevOps Engineering during the day 👨🏽‍💻, super hero at night 🦹🏽‍♂️. I love networking and mentoring :8ball: :revolving_hearts:
+- Adefemi🌟 here 👋💻, in this world to live to the fullest.
 
 ---
 
@@ -25,7 +25,7 @@
 ## 💬 Details
 - Name: Adefemi Micheal
 - 😄 Pronouns: He/Him :man:
-- Employer: 
+- Employer: 👀
 <!-- - Presentations -->
 - Portfolio: [Portfolio](https://adefemi.netlify.com/)
 
@@ -35,9 +35,9 @@
 ---
 
 ## 👯 Communities
-- Ex Microsoft Learn Student Ambassadors
-- Ex Google Developers Student Club
-- Ex HackerEarth Campus Ambassador
+- Ex Microsoft Learn Student Ambassadors (University Of Ibadan)
+- Ex Google Developers Student Club (University Of Ibadan)
+- Ex HackerEarth Campus Ambassador (University Of Ibadan)
 
 ---
 
@@ -51,11 +51,10 @@
 ## 🔭 Past Experience
 | Company                         | Role             | Employment Type     | Month/Years          |
 | :---                            | :----:           | :---:               | :---:                |  
-| Co-Creation Hub (CcHUB)         | DevOps Engineer  | Contract            | Sep 2021 - Aug 2022  |
-| PayDay                          | DevOps Engineer  | Contract            | Aug 2021 - Oct 2021  |
-| Automation Cube LLC             | DevOps Engineer  | Full-Time           | Feb 2019 - Jun 2021  |
-| Raoatech IT-ELECTROMECH LIMITED | DevOps Engineer  | Contract            | Dec 2022 - Apr 2021  |
-| ChangeMaker In Slums (CIS)      | Software Engineer| Internship          | Jan 2019 - Jun 2019  |
+| Atlan                           | Cloud Engineer   | Contract            | Aug 2022 - Present   |
+| Co-Creation Hub (CcHUB)         | DevOps Engineer  | Contract            | Aug 2021 - Aug 2022  |
+| Automation Cube LLC             | DevOps Engineer  | Full-Time           | Feb 2019 - Jul 2021  |
+| ChangeMaker In Slums (CIS)      | Software Engineer| Internship          | Sep 2018 - Jan 2019  |
 
 ---
 
