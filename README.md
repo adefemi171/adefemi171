@@ -4,10 +4,9 @@
 
 <img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@daycrawller-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daycrawller)](https://twitter.com/daycrawller) [![Linkedin Badge](https://img.shields.io/badge/-AdefemiMicheal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/afuwape-adefemi-micheal/) [![Medium Badge](https://img.shields.io/badge/-@adefemi171-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/adefemi171)
-[![Gmail Badge](https://img.shields.io/badge/-adefemi171@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adefemi171@gmail.com)](mailto:adefemi171@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@daycrawller-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daycrawller)](https://twitter.com/daycrawller)
 
-- Adefemi🌟 here 👋💻, in this world to live to the fullest.
+- Ade🌟 here 👋💻, in this world to live to the fullest.
 
 ---
 
@@ -23,28 +22,12 @@
 ---
 
 ## 💬 Details
-- Name: Adefemi Micheal
+- Name: Ade
 - 😄 Pronouns: He/Him :man:
 - Employer: 👀
 <!-- - Presentations -->
-- Portfolio: [Portfolio](https://adefemi.netlify.com/)
 
 - ⚡ Fun fact: If you shuffle a deck of cards, it's most probable that order of cards has never been shuffled in the whole of human history.
-
-
----
-
-## 👯 Communities
-- Ex Microsoft Learn Student Ambassadors (University Of Ibadan)
-- Ex Google Developers Student Club (University Of Ibadan)
-- Ex HackerEarth Campus Ambassador (University Of Ibadan)
-
----
-
-## 📣📣 Talks and Events
-- [HashiTalk Africa '22](https://youtu.be/sGuAHS8Pcjs?list=PL81sUbsFNc5Y5qmpyaIzzSHmmBELCRkbb&t=11510)
-- [Google Developers Student Club University of Ibadan '21](https://gdsc.community.dev/events/details/developer-student-clubs-university-of-ibadan-presents-gdsc-university-of-ibadan-info-session/)
-
 
 ---
 
@@ -67,19 +50,7 @@
 - Every new tools that comes my Way
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Go App with Gitlab Runner on Azure |Part 2](https://medium.com/swlh/building-go-app-with-gitlab-runner-on-azure-part-2-68ba54cc5a6?source=rss-c011ee23c0a1------2)
-- [Building Go App with Gitlab Runner on Azure |Part 1](https://medium.com/swlh/building-go-app-with-gitlab-runner-on-azure-part-1-5e2a21c47876?source=rss-c011ee23c0a1------2)
-- [Containerization |Part 3: LXD ON STEROID](https://faun.pub/containerization-part-3-lxd-on-steroid-cbf73fccbc72?source=rss-c011ee23c0a1------2)
-- [Creating a Covid-10 Dashboard using Cube.js and VueJS](https://medium.com/analytics-vidhya/creating-a-covid-10-dashboard-using-cube-js-and-vuejs-17377dda5ef8?source=rss-c011ee23c0a1------2)
-- [Containerization |Part 2: From LXD to Kubernetes](https://faun.pub/containerization-part-2-from-lxd-to-kubernetes-6d595035fbc9?source=rss-c011ee23c0a1------2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@adefemi171)
-
----
+### 📕 
 
 
 <details>
