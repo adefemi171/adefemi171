@@ -6,7 +6,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@daycrawller-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daycrawller)](https://twitter.com/daycrawller)
 
-- Ade🌟 here 👋💻, in this world to live to the fullest.
+- Adefemi🌟 here 👋💻, in this world to live to the fullest.
 
 ---
 
@@ -22,12 +22,12 @@
 ---
 
 ## 💬 Details
-- Name: Ade
+- Name: Adefemi
 - 😄 Pronouns: He/Him :man:
 - Employer: 👀
 <!-- - Presentations -->
 
-- ⚡ Fun fact: If you shuffle a deck of cards, it's most probable that order of cards has never been shuffled in the whole of human history.
+- ⚡ Fun fact: If you shuffle a deck of cards, it's most probable that the order of cards has never been shuffled in the whole of human history.
 
 ---
 
@@ -42,12 +42,12 @@
 ---
 
 ## 🔭 I’m currently working on
-- Building and contributng to tools that helps Africans and the world at large
+- Building and contributing to tools that help Africans and the world at large
 
 ---
 
 ## 🌱 I’m currently learning
-- Every new tools that comes my Way
+- Every new tool that comes my Way
 ---
 
 ### 📕 
@@ -81,11 +81,11 @@
 
 ---
 
-## To create your own version of this wonderful feature by Github, follow this simple steps:
+## To create your version of this wonderful feature by Github, follow this simple steps:
 
 1. You can either fork or clone the repo
 2. Create a new repository
-3. Make the name of the repository your github username, fo example my username is `adefemi171` so my repository name will be `adefemi171`.
-4. After this, a README.md file is automatically created, you can either clone this new repo or edit on your browser
-5. Paste what you forked/cloned from my repository and edit to your own style.
+3. Make the name of the repository your GitHub username, for example, my username is `adefemi171` so my repository name will be `adefemi171`.
+4. After this, a README.md file is automatically created, you can either clone this new repo or edit it on your browser
+5. Paste what you forked/cloned from my repository and edit to your style.
 5. To add more style to your README, you can watch this video by [codeSTACKr](https://www.youtube.com/watch?v=n6d4KHSKqGk) for the Spotify and also the blogpost functionality
