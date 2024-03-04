@@ -15,7 +15,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://adefemi-spotify-now-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
+&nbsp; <br> [![Spotify](https://adefemi-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
 
 </table>
     
