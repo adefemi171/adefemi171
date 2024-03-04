@@ -1,10 +1,10 @@
-<!-- <img src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/DevOpsTalk.png" alt=""> -->
-
 <h2> Hello fellow human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@daycrawller-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tha_infra_guy)](https://twitter.com/tha_infra_guyr)
+[![Twitter Badge](https://img.shields.io/badge/-@tha_infra_guy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tha_infra_guy)](https://twitter.com/tha_infra_guy)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adefemi171&label=Profile%20views&color=0e75b6&style=flat" alt="adefemi171" /> </p>
 
 - Adefemi🌟 here 👋💻, in this world to live to the fullest.
 
@@ -15,7 +15,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://adefemi-spotify-now-playing.vercel.app/now-playing?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
+&nbsp; <br> [![Spotify](https://adefemi-spotify-now-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
 
 </table>
     
@@ -46,11 +46,67 @@
 
 ---
 
-## 🌱 I’m currently learning
+## 📕 I’m currently learning
 - Every new tool that comes my way
+- Currently working on [Terraform GHA](https://github.com/adefemi171/terraform-gha) which is a tool that lets you deploy Self-Hosted GitHub Actions Runners using Terraform bot locally and in AWS
 ---
 
-### 📕 
+### 🌱 Languages and Tools:
+- I work on DevOps, Microservices, containers, and everything around it.
+- I’m looking to collaborate on **Cloud-native Projects**
+
+#### Programming Language Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell,python,typescript,js,golang" />
+  </a>
+</p>
+
+#### OS Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,debian" />
+  </a>
+</p>
+
+#### Database Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,cassandra,dynamodb" />
+  </a>
+</p>
+
+#### Dev Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kafka,elasticsearch,rabbitmq" />
+  </a>
+</p>
+
+#### DevOps Stack 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,cmake,githubactions,bitbucket,gitlab,jenkins,ansible,terraform,docker,kubernetes,prometheus,nginx" />
+  </a>
+</p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="codeship" title="codeship" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="bamboo" title="bamboo" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p>
+
+#### Project Management Stack
+
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
+
+#### Editor / IDE I ♥
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,sublime,neovim" />
+  </a>
+</p>
 
 
 <details>
