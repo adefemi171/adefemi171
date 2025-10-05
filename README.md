@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adefemi171&label=Profile%20views&color=0e75b6&style=flat" alt="adefemi171" /> </p>
 
-- Adefemi🌟 here 👋💻, in this world to live to the fullest.
+- Adefemi🌟 here 👋💻
 
 ---
 
